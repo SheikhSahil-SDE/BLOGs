@@ -1,5 +1,7 @@
+// VScode Extension
+
 {
     "recommendations": [
-        "ritwickdey.liveserver" VScode Extension
+        "ritwickdey.liveserver" 
     ]
 }
